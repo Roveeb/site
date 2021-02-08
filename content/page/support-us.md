@@ -6,9 +6,6 @@ aliases = ["support-us","support","apoie"]
 commentable = false
 +++
 
-Mateus Roveda
-======
-
 ## COMO DOAR?
 
 <i class="fas fa-money-bill-wave"></i>[ Doação única](https://picpay.me/mateus.roveda)</br>
