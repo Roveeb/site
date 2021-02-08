@@ -86,24 +86,29 @@ url = "/"
 weight = 1
 
 [[menu.main]]
+name = "Apoie"
+url = "/page/support-us"
+weight = 2
+
+[[menu.main]]
 name = "Posts"
 url = "/post"
-weight = 2
+weight = 3
 
 [[menu.main]]
 name = "Sobre"
 url = "/page/about"
-weight = 3
+weight = 4
 
 [[menu.main]]
 name = "Tags"
 url = "/tags"
-weight = 4
+weight = 5
 
 [[menu.main]]
 name = "Categorias"
 url = "/categorias"
-weight = 5
+weight = 6
 
 # Social Menu
 [[params.social]]

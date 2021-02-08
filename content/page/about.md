@@ -99,6 +99,6 @@ Projetos
 
 - Organizador do evento Techstars Startup Weekend Brasil Women 20.  
 
-No mais, seja bem vindo e se precisar, pode entrar em contato comigo pelo e-mail: [mateus@roveda.dev](mailto:mateus@roveda.dev)
+No mais, seja bem vindo e se precisar, pode entrar em contato comigo pelo e-mail: [mateus@roveeb.com](mailto:mateus@roveeb.com)
 
 
