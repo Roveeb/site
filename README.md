@@ -1,6 +1,6 @@
 # Blog pessoal
 
-Esse repositório contém o código fonte do website [roveda.dev](roveda.dev), que foi construido utilizando as seguintes ferramentas:
+Esse repositório contém o código fonte do website [roveeb.com](roveeb.com), que foi construido utilizando as seguintes ferramentas:
 * Hugo
 * Netlify
 * Github
@@ -8,7 +8,7 @@ Esse repositório contém o código fonte do website [roveda.dev](roveda.dev), q
 ## Instalação
 
 ```
-git clone https://github.com/mateusrovedaa/site.git
+git clone https://github.com/roveeb/site.git
 ```
 
 ## Uso
