@@ -1,6 +1,6 @@
 ---
 title: Como instalar a ProtonVPN no GNU/Linux
-url: '/post/{{slug}}'
+url: /post/como-instalar-a-protonvpn-no-gnu-linux
 author: Mateus Roveda
 date: '2021-03-19T22:18:49-03:00'
 categorias:
