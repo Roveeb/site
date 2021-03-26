@@ -5,6 +5,8 @@ author: Mateus Roveda
 date: '2021-03-19T22:18:49-03:00'
 categorias:
   - vpn
+  - segurança
+  - linux
 tags:
   - seguranca
   - protonvpn
